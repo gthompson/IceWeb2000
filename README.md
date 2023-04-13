@@ -1,4 +1,4 @@
-# IceWeb2000
+# IceWeb - a web-based near-real-time seismic monitoring system for Alaskan volcanoes
 January 2000 snapshot of the IceWeb project
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.627494213.svg)](https://doi.org/10.5281/zenodo.627494213)
