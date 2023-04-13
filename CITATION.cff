@@ -4,6 +4,6 @@ authors:
   - family-names: Thompson
     given-names: Glenn
     orcid: https://orcid.org/0000-0002-9173-0097
-title: gthompson/IceWeb2000: IceWeb
+title: gthompson/IceWeb2000: IceWeb - a web-based near-real-time seismic monitoring system for Alaskan volcanoes
 version: v1.0.1
 date-released: 2023-04-13
